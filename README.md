@@ -20,7 +20,7 @@ The app features a custom AppBar, profile picture, bio, and dynamically switchin
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/user-profile-app.git
+   git clone https://github.com/Isht-dev190/User-Profile-App.git
    cd user-profile-app
    
 2. Install Dependencies:
